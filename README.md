@@ -18,7 +18,7 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/gilbert-ramos-09a41b20a/
 <!--
 **gilbertramos/gilbertramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
