@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/gilbertramos/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/gilbertramos/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/gilbertramos/ticket-lifecycle)
- 
+  
  
  
 
