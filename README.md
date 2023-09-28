@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/gilbertramos/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/gilbertramos/ticket-lifecycle)
 
- 
+  
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 - <b>Microsoft Azure</b>
