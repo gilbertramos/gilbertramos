@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/gilbertramos/ticket-lifecycle)
  
  
-
+ 
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/gilbertramos/configure-ad)
